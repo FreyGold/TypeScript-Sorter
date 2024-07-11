@@ -54,13 +54,13 @@
     "touch": "^3.1.1",
     "tree-kill": "^1.2.2",
     "tslib": "^2.6.3",
+    "typescript": "^5.5.3",
     "undefsafe": "^2.0.5",
     "wrap-ansi": "^7.0.0",
     "y18n": "^5.0.8",
     "yargs": "^17.7.2",
     "yargs-parser": "^21.1.1"
   },
-  "devDependencies": {},
   "scripts": {
     "start:build": "tsc -w",
     "start:run": "nodemon build/index.js",
